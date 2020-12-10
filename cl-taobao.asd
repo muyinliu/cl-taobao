@@ -1,4 +1,4 @@
-;;;; taobao.asd
+;;;; cl-taobao.asd
 
 (asdf:defsystem :cl-taobao
   :serial t
